@@ -19,7 +19,7 @@ usage
 -----
 
 ```
-noti.py -t <title> -m <message>
+$ noti.py -t <title> -m <message>
 ```
 
 screenshot
@@ -28,7 +28,7 @@ screenshot
 after making the following call from terminal:
 
 ```
-noti.py -t "noti.py" -m "hello"
+$ noti.py -t "noti.py" -m "hello"
 ```
 
 we should see the following notification in the upper-right corner of the screen:
