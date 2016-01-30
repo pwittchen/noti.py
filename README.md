@@ -5,12 +5,12 @@ simple script to show system notifications on Linux
 installation
 ------------
 
-with *wget*:
+with **wget**:
 ```
 $ sh -c "$(wget https://raw.githubusercontent.com/pwittchen/noti.py/master/install.sh -O -)"
 ```
 
-with *curl*:
+with **curl**:
 ```
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/pwittchen/noti.py/master/install.sh)"
 ```
