@@ -1,6 +1,6 @@
 noti.py
 =======
-simple python script to show system notifications on linux
+simple script to show system notifications on Linux
 
 usage
 -----
