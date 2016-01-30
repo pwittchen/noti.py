@@ -21,8 +21,8 @@ def main(argv):
             show_notification(title, message)
 
 def show_notification(title, message):
-    Notify.init ('Application')
-    notification = Notify.Notification.new (title, message, '')
+    Notify.init('Application')
+    notification = Notify.Notification.new(title, message, '')
     notification.show ()
 
 if __name__ == "__main__":
