@@ -20,4 +20,4 @@ after making the following call from terminal:
 
 we should see the following notification:
 
-![Screenshot](https://raw.githubusercontent.com/pwittchen/notif.py/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/pwittchen/noti.py/master/screenshot.png)
