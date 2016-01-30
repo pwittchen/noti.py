@@ -23,7 +23,7 @@ def main(argv):
 def show_notification(title, message):
     Notify.init('Application')
     notification = Notify.Notification.new(title, message, '')
-    notification.show ()
+    notification.show()
 
 if __name__ == "__main__":
     main(sys.argv[1:])
