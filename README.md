@@ -6,7 +6,7 @@ usage
 =====
 
 ```
-'./noti.py -t <title> -m <message>'
+./noti.py -t <title> -m <message>
 ```
 
 
