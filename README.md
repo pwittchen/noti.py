@@ -2,6 +2,8 @@ noti.py
 =======
 simple script to show system notifications on Linux
 
+This project is inspired by [noti](https://github.com/variadico/noti), which does similar thing, but is written in Go.
+
 installation
 ------------
 
