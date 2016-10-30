@@ -36,3 +36,9 @@ $ noti.py -t "noti.py" -m "hello"
 we should see the following notification in the upper-right corner of the screen:
 
 ![Screenshot](https://raw.githubusercontent.com/pwittchen/noti.py/master/screenshot.png)
+
+if you are using Gnome 3, you will see the following notification in the top of the screen:
+
+![Screenshot](https://raw.githubusercontent.com/pwittchen/noti.py/master/screenshot-gnome3.png)
+
+
