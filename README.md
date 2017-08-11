@@ -4,7 +4,7 @@ simple script to show system notifications on Linux
 
 this project is inspired by [noti](https://github.com/variadico/noti), which does similar thing, but is written in Go.
 
-There's also another project doing similar thing on macOS called [terminal-notifier](https://github.com/julienXX/terminal-notifier)
+There's also another project doing similar thing on macOS called [terminal-notifier](https://github.com/julienXX/terminal-notifier).
 
 installation
 ------------
